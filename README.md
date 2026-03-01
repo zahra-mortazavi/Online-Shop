@@ -196,17 +196,17 @@ The console application will launch and display the main menu.
 
 ## 🛠 Admin Commands
 
-| Command                            | Description           |                     |              |
-| ---------------------------------- | --------------------- | ------------------- | ------------ |
-| `help`                             | Show command syntax   |                     |              |
-| `add <type> <parameters>`          | Add new product       |                     |              |
-| `showgoods`                        | List all products     |                     |              |
-| `edit <goodsID> <NAME              | PRICE                 | INVENTORY> <value>` | Edit product |
-| `delete <goodsID1> [goodsID2 ...]` | Delete products       |                     |              |
-| `showreq`                          | Show pending requests |                     |              |
-| `req accept <IDs>`                 | Accept requests       |                     |              |
-| `req reject <IDs>`                 | Reject requests       |                     |              |
-| `exit`                             | Return to main menu   |                     |              |
+| Command                            | Description           |
+| ---------------------------------- | --------------------- |
+| `help`                             | Show command syntax   |
+| `add <type> <parameters>`          | Add new product       |
+| `showgoods`                        | List all products     |
+| `edit <goodsID> <NAME>`            | Edit product          |
+| `delete <goodsID1> [goodsID2 ...]` | Delete products       |
+| `showreq`                          | Show pending requests |
+| `req accept <IDs>`                 | Accept requests       |
+| `req reject <IDs>`                 | Reject requests       |
+| `exit`                             | Return to main menu   |
 
 ---
 
